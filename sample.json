@@ -1,5 +1,13 @@
 [
-  { "id": 1, "english": "unanticipated", "japanese": "まさかの展開に" },
-  { "id": 2, "english": "witty", "japanese": "言葉などが機知に富んだ、軽妙な" },
-  { "id": 3, "english": "mischievous", "japanese": "いたずら好きな、お茶目な" }
+  { "id": "1", "english": "unanticipated", "japanese": "まさかの展開に" },
+  {
+    "id": "2",
+    "english": "witty",
+    "japanese": "言葉などが機知に富んだ、軽妙な"
+  },
+  {
+    "id": "3",
+    "english": "mischievous",
+    "japanese": "いたずら好きな、お茶目な"
+  }
 ]
